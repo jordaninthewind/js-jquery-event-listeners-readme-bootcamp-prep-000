@@ -4,6 +4,6 @@ $(document).ready(function(){
 
 });
 
-function getit() {
+function getIt() {
   $('p').on('click', function(){alert('Hey!')});
 }
