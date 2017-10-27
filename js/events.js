@@ -5,5 +5,5 @@ $(document).ready(function(){
 });
 
 function getit() {
-  $('p').on('click', function(){alert('Hey!');})
+  $('p').on('click', function(){alert('Hey!')});
 }
